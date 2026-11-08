@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/omnigent/commit/7dd85cfdd7ef9407b85127279b6540bef0423202",
       "git:hexsha": "7dd85cfdd7ef9407b85127279b6540bef0423202",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
